@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Exodus_Peripherals)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_Peripherals.lib)(options "")(descr ""))
+  (lib (name Exodus_PowerRegulator)(type Legacy)(uri ${CUSTOM_SYMBOL_DIR}/Exodus_PowerRegulator.lib)(options "")(descr ""))
+)
